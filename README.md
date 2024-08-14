@@ -1,4 +1,6 @@
 # Deep-Learning-with-Python
 My journey with Deep Learning with Python - Book by François Chollet
 
-![image](https://github.com/user-attachments/assets/a12706c2-251d-4566-943d-edabffd12507)
+![image](https://github.com/user-attachments/assets/1e619ba6-66b0-4596-9763-fd1ea2bb5cef)
+
+I will try my best to document what i learned from each chapter!
